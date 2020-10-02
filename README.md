@@ -1,2 +1,2 @@
-Bruno de Souza Cruz 👨🏼‍💻👨🏼‍💻
+Bruno de Souza Cruz 👨🏼‍💻
 
