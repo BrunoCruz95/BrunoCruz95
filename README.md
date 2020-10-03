@@ -1,12 +1,15 @@
 # Bruno de Souza Cruz 👨🏼‍💻
 ### Olá, seja bem-vindo! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 <h3> Sobre mim </h3>
+
 - 🤔 &nbsp; Explorando tecnologias novas e desenvolvendo soluções de software.
 
 - 🎓 &nbsp; Cursando Ciência da Computação.
 
 - ✍️ &nbsp;  Desenvolvimento Web e atividades paralelas.
+
 <h3> Tecnologias </h3>
+
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Selenium
