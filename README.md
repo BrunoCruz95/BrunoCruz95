@@ -12,7 +12,6 @@
 <h3> Tecnologias </h3>
 
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Selenium
 - 💻 &nbsp; Python | Java | C 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
