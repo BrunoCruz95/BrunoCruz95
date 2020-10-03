@@ -6,19 +6,14 @@
 <h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando tecnologias novas e desenvolvendo soluções de software.
-
 - 🎓 &nbsp; Cursando Ciência da Computação.
-
 - ✍️ &nbsp;  Desenvolvimento Web e atividades paralelas.
 
 <h3> Tecnologias </h3>
 
 - 🛢 &nbsp; MySQL | MongoDB
-
 - 🔧 &nbsp; Git | Selenium
-
 - 💻 &nbsp; Python | Java | C 
-
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
 
