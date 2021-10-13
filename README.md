@@ -1,6 +1,6 @@
 # Bruno Cruz
 ## Projetos:
-## http://noted-here.herokuapp.com/other/annotation
+## http://noted-here.herokuapp.com
 ## http://jogo-cobra.github.io
 ##
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnuscz@gmail.com)](mailto:brunnuscz@gmail.com)
