@@ -17,10 +17,10 @@ Me chamo Bruno e atualmente estou cursando Bacharelado em Ciencia da Computaçã
   
 <div>
   <a href="https://www.linkedin.com/in/brunnuscz/" alt="Linkedin">
-    <img height="20" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/brunnuscz" alt="Instagram">
-    <img height="20" width="80" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brunnuscz/"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brunnuscz/"/>
   </a>
   <a href="https://www.gmail.com/brunnuscz@gmail.com" alt="Gmail"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
