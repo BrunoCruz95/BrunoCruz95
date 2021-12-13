@@ -22,7 +22,7 @@ Me chamo Bruno e atualmente estou cursando Bacharelado em Ciencia da Computaçã
   <a href="https://www.instagram.com/brunnuscz" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brunnuscz/"/>
   </a>
-  <a href="https://www.gmail.com/brunnuscz@gmail.com" alt="Gmail"> 
+  <a href="mailto:brunnuscz@gmail.com" alt="Gmail"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="htpps://www.twitter.com/brunnuscz" alt="Twitter">
