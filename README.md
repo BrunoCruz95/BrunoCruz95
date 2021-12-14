@@ -1,8 +1,10 @@
 ## Olá, seja bem-vindo!
-Me chamo Bruno e atualmente estou cursando Bacharelado em Ciencia da Computação pela Universidade Estadual do Piaui (UESPI).
+Me chamo Bruno e atualmente estou cursando Bacharelado em Ciência da Computação pela Universidade Estadual do Piauí (UESPI).
 
 - 👓 Gosto de tecnologia e Arte
-- 😃 Estudando sempre que possivel
+- 😃 Estudando sempre que possível
+
+##
 
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
