@@ -1,8 +1,8 @@
 ## Olá, seja bem-vindo!
 Me chamo Bruno e atualmente estou cursando Bacharelado em Ciencia da Computação pela Universidade Estadual do Piaui (UESPI).
 
-- 😃 Gosto de tecnologia
-- 😃 Estudando
+- 👓 Gosto de tecnologia e Arte
+- 😃 Estudando sempre que possivel
 
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -27,6 +27,7 @@ Me chamo Bruno e atualmente estou cursando Bacharelado em Ciencia da Computaçã
   </a>
   <a href="htpps://www.twitter.com/brunnuscz" alt="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
 
 
