@@ -6,6 +6,8 @@
 - 🎨 Art lover
 
 ### <h4>Technologies and Tools:</h4>
+- HTML5, CSS3, JAVASCRIPT, NODEJS, BOOTSTRAP
+/*
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -15,7 +17,7 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
+*/
 ### <h4> Let's connect: </h4>
 <div>
   <a href="https://www.linkedin.com/in/brunnuscz/" alt="Linkedin">
