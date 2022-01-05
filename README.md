@@ -1,11 +1,11 @@
-### <h3> Hello welcome! </h3>
+### <h3> Olá Bem-Vindo! </h3>
 
-### <h4>Information:</h4>
-- 👓 I like technology
-- 😃 I am learning
-- 🎨 Art lover
+### <h4>Informações:</h4>
+- 👓 Gosto de tecnologia
+- 😃 Estou aprendendo
+- 🎨 Amante da arte
 
-### <h4>Technologies and Tools:</h4>
+### <h4>Tecnologias e Ferramentas:</h4>
 - HTML5, CSS3, JAVASCRIPT, NODEJS, BOOTSTRAP
 <!--
 <div style="display: inline_block">
@@ -19,7 +19,7 @@
 </div>
 -->
 
-### <h4> Let's connect: </h4>
+### <h4> Vamos nos conectar: </h4>
 <div>
   <a href="https://www.linkedin.com/in/brunnuscz/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
