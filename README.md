@@ -1,23 +1,8 @@
 ### <h3> Olá Bem-Vindo! </h3>
 
-### <h4>Informações:</h4>
-- 👓 Gosto de tecnologia
-- 😃 Estou aprendendo
-- 🎨 Amante da arte
-
-### <h4>Tecnologias e Ferramentas:</h4>
-- HTML5, CSS3, JAVASCRIPT, NODEJS, BOOTSTRAP
-<!--
-<div style="display: inline_block">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnuscz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
--->
 
 ### <h4> Vamos nos conectar: </h4>
 <div>
