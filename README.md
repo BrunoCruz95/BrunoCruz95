@@ -4,6 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnuscz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact)-->
+
 ### <h4> Vamos nos conectar: </h4>
 <div>
   <a href="https://www.linkedin.com/in/brunnuscz/" alt="Linkedin">
